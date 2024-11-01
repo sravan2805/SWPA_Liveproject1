@@ -6,10 +6,19 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
+# create git commands
 git init
-git add README.md
+git add .
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/sravan2805/SWPA_Liveproject1.git
 git push -u origin main
+
+# pull request commands
+git init
+git add .
+git commit -m "first_pr"
+git checkout -b sravan
+git branch
+git push origin sravan
+
