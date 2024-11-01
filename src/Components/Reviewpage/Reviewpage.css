@@ -1,0 +1,64 @@
+/* General Styling */
+.review-page {
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+  /* Our Happy Customer Section */
+  .happy-customers {
+    text-align: center;
+    padding: 40px;
+    background-color: #f7f7f7;
+  }
+  
+  .happy-customers h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .happy-customers p {
+    font-size: 1.1rem;
+    color: #666;
+    margin-bottom: 30px;
+  }
+  
+  .reviews {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  
+  .review-card {
+    width: 200px;
+    text-align: center;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .reviewer-image {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
+  
+  .review-card h4 {
+    font-size: 1.2rem;
+    color: #333;
+  }
+  
+  .review-card p {
+    font-size: 0.9rem;
+    color: #666;
+  }
+  
+  .tagline {
+    margin-top: 20px;
+    font-style: italic;
+    color: #555;
+  }
+  
