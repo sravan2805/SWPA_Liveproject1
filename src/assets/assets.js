@@ -1,3 +1,21 @@
+
+import fourAmBiryani from './four_am_biryani.jpg'; 
+import DSoups from './Delicious_menu_Soup.jpg';
+import DBiryani from './Delicious_menu_Biryani.jpg';
+import DTandoori from './Delicious_menu_tandoori.jpg';
+import Biryani from './Biryani_non_veg_img1.png';
+import star from './star.png';
+
+const assets = {
+  fourAmBiryani,
+  DSoups,
+  DBiryani,
+  DTandoori,
+  Biryani,
+  star,
+};
+
+export default asset
 //biryani,friedrice,soups
 // main course-nonveg,veg,tandoori,starters-veg,nonveg,spl items,
 import four_am_biryani from './four_am_biryani.jpg'
@@ -578,26 +596,5 @@ export const Web_plus_academy_logologo=[
         image:[Web_plus_academy_logo.jpg],
         
     }
-]
-
-
-
-
-
-
-
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-
-
+  
+  ]
