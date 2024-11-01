@@ -1,6 +1,6 @@
 import React from 'react';
 import './Delicious_menu.css';
-import assets from '../../assets/assets1';
+import assets from '../../assets/assets';
 
 const Delicious_menu = () => {
   return (

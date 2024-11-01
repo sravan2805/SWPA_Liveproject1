@@ -1,6 +1,6 @@
 import React from 'react';
 import './Specialdish.css';
-import assets from '../../assets/assets1.js'; 
+import assets from '../../assets/assets.js'; 
 
 const Specialdish = () => {
   return (
